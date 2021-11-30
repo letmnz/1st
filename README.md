@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @letmnz
 - 👀 I’m interested in finding beginners in coding so we can learn together 
-- 🌱 I’m currently (starting) to lear coding 
+- 🌱 I’m currently (starting) to learn how to code
 - 📫 How to reach me ... just call me here 
 
 <!---
