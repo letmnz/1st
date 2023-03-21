@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @letmnz
-- 👀 I’m interested in finding beginners in coding so we can learn together 
-- 🌱 I’m currently (starting) to learn how to code
-- 📫 How to reach me ... just call me here 
+- Hi, I’m @llbm
+- I’m interested in finding beginners in coding so we can learn together 
+- I’m currently (starting) to learn how to code
+- How to reach me ... just call me here 
 
 <!---
 letmnz/letmnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
